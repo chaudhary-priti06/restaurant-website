@@ -1,5 +1,5 @@
 Responsive restaurant website built using HTML, CSS and JavaScript
-added practice file
+added practice file 
 
 
 
